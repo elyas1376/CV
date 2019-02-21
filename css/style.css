@@ -1,0 +1,34 @@
+body {background:#1a1a1a;
+margin:0px;
+text-align:center;
+font-family:sans-serif;
+}
+
+
+.top-container{background:#1a1a1a/*linear-gradient(182deg,white,#00b0ff,#2d4ce4)*/;position:relative;width:50%;padding:100px 0 0 0;margin:auto}
+.top-container h1 {color:#a0e4ff;;margin:0 auto 0 auto;font:8rem 'Amatic SC', cursive;line-height:2}
+.top-container p {color:#a0e4ff;margin:0;font:3.5rem 'Amatic SC', cursive;}
+.top-container span {text-decoration: underline;}
+.top-container img {margin:28px auto 2px auto}
+.top-cloud{height:80px;position:relative;top:5%;right:10%}
+.bottom-cloud{height:106px;position:relative;bottom:20%;left:10%}
+.middle-container{background:#1a1a1a/*linear-gradient(205deg,#2196f3,#3131df,#1e60a3,#00072c)*/;color:#ff0000}
+p {font:2rem'Amatic SC';line-height:1.35;margin:0}
+h2 , h3 {font:3rem'Barlow Semi Condensed';color: #11999E}
+.profile{text-align: center;width:50%;margin:auto;padding: 60px 0 0 0}
+.profile  img {border-radius: 50%;width:350px;height:350px}
+/*.skills  img {border-radius: 50%;width:450px;height:450px}*/
+.skill-row {width:50%;margin:100px auto 100px auto;text-align:left}
+.firsts {border-radius:50%;width:160px;height:160px;float:left;margin:100px 30px 0 0}
+.skill-row a {text-decoration:none;}
+.skill-row a:hover{color:white}
+.skill-row a:active{color:black}
+.seconds{border-radius:50%;width:22%;float:right;margin:100px 0 0 30px}
+.bottom-container a {color:#11999E;text-decoration:none}
+.bottom-container a:hover{color:#fff;text-decoration:none}
+.bottom-container {background:#66BFBF;color:white;margin:0;padding:20px 0 0 0;color:#EAF6F6}
+.mybtn {background:#66bfbf;width:170px;height:48px;border-radius:15px;margin:40px  auto 0 auto
+;padding-top:4px;position:relative;bottom:23px}
+.mybtn:hover{background:#0036f2;}
+.contact-me a {font:30px 'Barlow Semi Condensed';color:white;text-decoration:none}
+hr {border:dotted 6px;border-bottom:none;width:5%;color:#13fc02;margin-top:20px}
