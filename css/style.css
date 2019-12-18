@@ -40,3 +40,8 @@ hr {border:dotted 6px;border-bottom:none;width:5%;color:#13fc02;margin-top:20px}
 from{transform: rotateX(-360deg)}
 to{transform:rotateX(0deg)}
 }
+
+
+.fa-instagram:hover {color:#f35a75}
+
+.fa-telegram:hover {color:#176ca9}
