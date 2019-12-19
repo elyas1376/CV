@@ -41,6 +41,7 @@ from{transform: rotateX(-360deg)}
 to{transform:rotateX(0deg)}
 }
 
-.fa-instagram .fa-telegram {color:#FFF}
+.ins{color:#FFF}
+.tel{color:#FFF}
 .fa-instagram:hover {color:#f35a75}
 .fa-telegram:hover {color:#176ca9}
